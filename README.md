@@ -43,18 +43,12 @@ When victim enter his credentials, you need to go to original website and use th
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/shravanjerry/AdvPhishing.git
 * cd AdvPhishing/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-AdvPhishing.sh
 
-# INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
-* cd AdvPhishing/
-* chmod 777 setup.sh
-* ./setup.sh
-* ./AdvPhishing.sh
 
 # AVAILABLE TUNNELLING OPTIONS
 1. LOCALHOST
@@ -76,7 +70,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 # Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : jerryshravan@gmail.com
 
 # DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
